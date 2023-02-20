@@ -22,7 +22,7 @@ global.READ_MASSAGE = 'false'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94742442932'] 
+global.owner = ['94742443114'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Dumidu²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
@@ -44,9 +44,9 @@ global.author =  '_Dumidu_'
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'true'
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK !!!'
+global.INBOX_BLOCK_MSG = 'BLOCK!!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '🐼'
+global.OWNER_REACT =  '💻'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
@@ -93,7 +93,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94742442932"]
+global.NO_BLOCK = ["94742443114"]
 
 
 
