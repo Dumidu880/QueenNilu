@@ -44,9 +44,10 @@ global.author =  '_Dumidu_'
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'true'
 //👇 Inbox Block Massage 
-global.INBOX_BLOCK_MSG = 'BLOCK!!!'
+global.INBOX_BLOCK_MSG = '𝙱𝚈𝙴  𝚈𝙾𝚄 𝙱𝙻𝙾𝙲𝙺 𝙸 𝙰𝙼 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄'
+
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '🖕'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
@@ -65,7 +66,7 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 //👇 Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 //👇 212 Number block
-global.NUMBER_212_BLOCK = 'true'
+global.NUMBER_212_BLOCK = 'false'
 //👇 Menu imoji 
 global.MENU_IMOJI = '👸|🪄'
 //👇 Your time zone ( use correct time zone )
@@ -121,7 +122,7 @@ global.mess = {
     group: '*This command can only be used in groups !*',
     private: '*This command can only be used in Inbox !*',
     bot: '*This command can only be used by bot number !*',
-    wait: '*♲ Please Wait ...*',
+    wait: '*♲...*',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     BLOCK_CMD_MSG : '*⚠️ This Command is Block By Owner*',
     BLOCK : '',
