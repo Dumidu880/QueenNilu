@@ -28,13 +28,13 @@ global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 Dumidu²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
 global.AUTO_BIO =  'off'
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK =  'off'
+global.INBOX_BLOCK =  'on'
 //👇 Auto react 
 global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma = 'Dumidu'
+global.botnma = '𝚍𝚒𝚟𝚎𝚛𝚝 𝚏𝚕𝚘𝚟𝚎𝚛𝚜 𝘵𝘮'
 //👇 Your name
 global.ownernma =  'Dumidu' 
 //👇 Sticker package name
@@ -60,11 +60,11 @@ global.BUTTON2_URL = 'https://youtube.com/c/Janithsadanuwan'
 //👇 Your Add Massage 
 global.ADD_MSG = '*✅ Success add Group*' 
 //👇 Your Kick Massage 
-global.KICK_MSG = '*✅ Success Remove from Group*' 
+global.KICK_MSG = '*✅ Success Remove from Group 𝘩𝘶𝘵𝘵𝘰*' 
 //👇 Song Download Massage 
-global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
+global.SONG_DOWN = '``` Downloading Your Song...```' 
 //👇 Song Uplode massage 
-global.SONG_UP = '```⬆️ Uploding Your Song...```'
+global.SONG_UP = '``` Uploding Your Song...```'
 //👇 212 Number block
 global.NUMBER_212_BLOCK = 'false'
 //👇 Menu imoji 
@@ -74,19 +74,19 @@ global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
 //👇 Removebg Api key
 global.REMOVE_BG_API = ''
 //👇 Pron Video Download 
-global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'true'
+global.SEX_VIDEO_DOWNLOAD = process.env.SEX_VIDEO_DOWNLOAD || 'false'
 //👇 Change Bot Language (English-' EN ', Sinhala , ' SI ' , Tamil - ' TL ')
 global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `ආ මම ඔන්ලයින් ඉන්නේ ගනින් ඔන එවා තොපි`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
-global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
+global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || `වරෙන් වරෙන්`
 //👇 Goodbye message 
-global.GOODBYE = process.env.GOODBYE || ``
+global.GOODBYE = process.env.GOODBYE || `පරයා`
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Send Welcome ( true or false )
